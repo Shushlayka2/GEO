@@ -1,0 +1,15 @@
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\bin\Debug\SterlitamakProject.exe.config
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\bin\Debug\SterlitamakProject.exe
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\bin\Debug\SterlitamakProject.pdb
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.csprojResolveAssemblyReference.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\MainWindow.g.cs
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\App.g.cs
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject_MarkupCompile.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject_MarkupCompile.lref
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\MainWindow.baml
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.g.resources
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.Properties.Resources.resources
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.csproj.GenerateResource.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.csproj.CoreCompileInputs.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.exe
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\SterlitamakProject\SterlitamakProject\obj\Debug\SterlitamakProject.pdb

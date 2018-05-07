@@ -1,0 +1,11 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.790936, 49.121820]}, "properties": {"balloonContent": "Университет", "clusterCaption": "Университет", "hintContent": "Университет", "iconCaption": "Университет"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 1, "geometry": {"type": "Point", "coordinates": [55.797076, 49.114258]}, "properties": {"balloonContent": "Университет", "clusterCaption": "Университет", "hintContent": "Университет", "iconCaption": "Университет"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 2, "geometry": {"type": "Point", "coordinates": [55.793570, 49.150534]}, "properties": {"balloonContent": "Отель", "clusterCaption": "Отель", "hintContent": "Отель", "iconCaption": "Отель"}, "options": {"preset": "islands#greenCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 3, "geometry": {"type": "Point", "coordinates": [55.793570, 49.150534]}, "properties": {"balloonContent": "Торговый центр", "clusterCaption": "Торговый центр", "hintContent": "Торговый центр", "iconCaption": "Торговый центр"}, "options": {"preset": "islands#yellowCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 4, "geometry": {"type": "Point", "coordinates": [55.786089, 49.125128]}, "properties": {"balloonContent": "Отель", "clusterCaption": "Отель", "hintContent": "Отель", "iconCaption": "Отель"}, "options": {"preset": "islands#greenCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 5, "geometry": {"type": "Point", "coordinates": [55.786899, 49.123347]}, "properties": {"balloonContent": "Торговый центр", "clusterCaption": "Торговый центр", "hintContent": "Торговый центр", "iconCaption": "Торговый центр"}, "options": {"preset": "islands#yellowCircleDotIconWithCaption"}}
+    ]
+}

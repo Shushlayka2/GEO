@@ -1,0 +1,18 @@
+﻿<Window x:Class="MapApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MapApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="893px" Width="1500px" KeyDown="Window_KeyDown">
+    <Window.Resources>
+        <BitmapImage x:Key="mainImage" UriSource="Resources\kfu.png"/>
+        <ImageBrush x:Key="mainBrush" ImageSource="{StaticResource mainImage}"/>
+    </Window.Resources>
+    <Grid Name="mainGrid">
+        <Image Name="mainImg" Source="Resources\kfu.png" Stretch="Fill" MouseDown="Image_MouseDown"/>
+        <Canvas Name="lineCanvas" Background="{StaticResource mainBrush}" Visibility="Collapsed" MouseLeftButtonDown="lineCanvas_MouseLeftButtonDown" MouseLeftButtonUp="lineCanvas_MouseLeftButtonUp" MouseMove="lineCanvas_MouseMove"/>
+        <Canvas Name="shapeCanvas" Background="{StaticResource mainBrush}" Visibility="Collapsed" MouseDown="shapeCanvas_MouseDown" MouseMove="shapeCanvas_MouseMove"/>
+    </Grid>
+</Window>

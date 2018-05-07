@@ -1,0 +1,6 @@
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\bin\Debug\CoastMeasureEventHandler.dll
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\bin\Debug\CoastMeasureEventHandler.pdb
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\obj\Debug\CoastMeasureEventHandler.csprojResolveAssemblyReference.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\obj\Debug\CoastMeasureEventHandler.csproj.CoreCompileInputs.cache
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\obj\Debug\CoastMeasureEventHandler.dll
+C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\CoastMeasure\CoastMeasureEventHandler\obj\Debug\CoastMeasureEventHandler.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoastMeasure", "CoastMeasure\CoastMeasure.csproj", "{D8414FD9-CA88-4940-907A-A2BF1B98CD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoastMeasureEventHandler", "CoastMeasureEventHandler\CoastMeasureEventHandler.csproj", "{7913083D-4EE8-4B14-BC0C-F108F6A694E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8414FD9-CA88-4940-907A-A2BF1B98CD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8414FD9-CA88-4940-907A-A2BF1B98CD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8414FD9-CA88-4940-907A-A2BF1B98CD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8414FD9-CA88-4940-907A-A2BF1B98CD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7913083D-4EE8-4B14-BC0C-F108F6A694E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7913083D-4EE8-4B14-BC0C-F108F6A694E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7913083D-4EE8-4B14-BC0C-F108F6A694E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7913083D-4EE8-4B14-BC0C-F108F6A694E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE8BBF0-A045-43DC-B7E7-3EF9A096204F}
+	EndGlobalSection
+EndGlobal

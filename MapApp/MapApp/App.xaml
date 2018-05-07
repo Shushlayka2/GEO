@@ -1,0 +1,15 @@
+﻿<Application x:Class="MapApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MapApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\MapApp\MapApp\Themes\Core.xaml"/>
+                <ResourceDictionary Source="C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\MapApp\MapApp\Themes\Brushes.xaml"/>
+                <ResourceDictionary Source="C:\Users\Latypov Bulat\Desktop\Учеба\Геоинформационные системы\MapApp\MapApp\Themes\Icons.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
